@@ -1,0 +1,186 @@
+{
+  "objects": [
+    {
+      "type": "application/light",
+      "content": {
+        "lightType": "ambient",
+        "args": [[255, 255, 255], 0.5]
+      }
+    },
+    {
+      "type": "application/light",
+      "content": {
+        "lightType": "directional",
+        "args": [[255, 255, 255], 5],
+        "position": [1, 2, 3],
+        "shadow": [150, 5120, 0.1, 10000, -0.0001]
+      }
+    },
+    {
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "start_url": "https://webaverse.github.io/atmospheric-sky/"
+    },
+    {
+      "position": [
+        4,
+        0,
+        1
+      ],
+      "quaternion": [
+        0,
+        0.7071067811865475,
+        0,
+        0.7071067811865475
+      ],
+      "start_url": "https://yasindu20211263.github.io/yasinduWebaverse/yasindu.vrm",
+      "dynamic": true
+    },
+    {
+      "position": [
+        4,
+        0,
+        5
+      ],
+      "quaternion": [
+        0,
+        0.7071067811865475,
+        0,
+        0.7071067811865475
+      ],
+      "start_url": "https://yasindu20211263.github.io/yasinduWebaverse/Manith.vrm",
+      "dynamic": true
+    },
+    {
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "physics": true,
+      "start_url": "https://webaverse.github.io/block/grid.glb",
+      "dynamic": true
+    },
+    {
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "quaternion": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "start_url": "https://webaverse.github.io/grass-anime/"
+    },
+    {
+      "position": [
+        0,
+        -10,
+        0
+      ],
+      "quaternion": [
+        0,
+        0,
+        0, 
+        1
+      ],
+      "start_url": "https://webaverse.github.io/tree-animation/"
+    },
+    {
+      "position": [
+        0,
+        -10,
+        20
+      ],
+      "quaternion": [
+        0,
+        0,
+        0, 
+        1
+      ],
+      "start_url": "https://webaverse.github.io/tree-animation/"
+    },
+    {
+      "position": [
+        19.167,
+        -0.059,
+        3.234
+      ],
+      "quaternion": [
+        0,
+        0,
+        0.717, 
+        0.697
+      ],
+      "scale": [
+        1,
+        1,
+        1.7
+      ],
+      "start_url": "https://webaverse.github.io/floating-island/"
+    },
+    {
+      "position": [
+        -22.608,
+        -0.059,
+        3.234
+      ],
+      "quaternion": [
+        0,
+        0,
+        -0.717, 
+        0.697
+      ],
+      "scale": [
+        1,
+        1,
+        1.7
+      ],
+      "start_url": "https://webaverse.github.io/floating-island/"
+    },
+    {
+      "position": [
+        1.86,
+        -0.059,
+        27.893
+      ],
+      "quaternion": [
+        0.717,
+        0,
+        0, 
+        -0.697
+      ],
+      "scale": [
+        2,
+        1,
+        1
+      ],
+      "start_url": "https://webaverse.github.io/floating-island/"
+    },
+    {
+      "position": [
+        1.86,
+        -0.059,
+        -19.893
+      ],
+      "quaternion": [
+        0.717,
+        0,
+        0, 
+        0.697
+      ],
+      "scale": [
+        2,
+        1,
+        1
+      ],
+      "start_url": "https://webaverse.github.io/floating-island/"
+    }
+  ]
+}
